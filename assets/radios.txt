@@ -1,0 +1,5 @@
+http://vogtlandradio.mp3.green.ch/vogtland_128k_mp3
+http://streaming.hitradio-rtl.de/hitradio-rtl_simulcast__dresden_192k_mp3
+http://streams.rsa-sachsen.de/rsa-live/mp3-192/mediaplayerrsa
+http://streams.radiopsr.de/101/mp3-192/streams.radiopsr.de
+http://dg-br-http-dus-dtag-cdn.cast.addradio.de/br/br3/live/mp3/128/stream.mp3
