@@ -1,4 +1,4 @@
-# RANDOM RADIOS
+# Random Radios
 
 currently:
 
